@@ -1,0 +1,15 @@
+[submodule "qr-frontend-test"]
+	path = qr-frontend-test
+	url = /qr-frontend-test/
+[submodule "qr_backend"]
+	path = qr_backend
+	url = /qr_backend/
+[submodule "qr_backend2"]
+	path = qr_backend2
+	url = /qr_backend2/
+[submodule "qr_backend3"]
+	path = qr_backend3
+	url = /qr_backend3/
+[submodule "qr_backend4"]
+	path = qr_backend4
+	url = /qr_backend4/
